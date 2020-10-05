@@ -1,0 +1,13 @@
+SPA app
+
+Webpack (imports/exports)
+    Babel
+    SCSS
+    ESLint
+    2 Modes
+        - Dev
+          Dev Server, SourceMap, ESLint, Not Minified JS & CSS
+        - Prod
+          Minified Code
+
+Git
